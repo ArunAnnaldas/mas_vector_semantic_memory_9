@@ -1,3 +1,5 @@
+This project implements a multi-agent AI system that collaborates through shared semantic memory. Each agent has a specific role — Planner, Developer, and Critic — and they work together to break down, implement, and review tasks.
+
 # 🤖 Multi-Agent Workflow with Semantic Memory (LangChain + OpenAI + FAISS)
 
 This project implements a **multi-agent AI system** that collaborates through shared semantic memory. Each agent has a specific role — Planner, Developer, and Critic — and they work together to break down, implement, and review tasks.
