@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Workflow with Shared Semantic Memory (LangChain + FAISS)
+# 🤖 Multi-Agent Workflow with Shared Semantic Memory (LangChain + FAISS --> Facebook AI Similarity Search)
 
 This project implements a collaborative multi-agent system using LangChain and FAISS. The system includes a Planner, Developer, and Critic agent — all sharing semantic memory via a FAISS vector store.
 
